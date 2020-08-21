@@ -1,0 +1,18 @@
+
+.jumbotron2 {
+	background-color:#4F4F4F;
+	color:#fff;
+}
+.login {
+	width: 50%;
+	margin:auto;
+
+}
+.photo_item{ 
+	width: 100px; 
+	height: 150px; 
+	text-align:center;
+	margin-right: 10px;
+	float: left;
+}
+.photo_item  img {width: 100px;}
